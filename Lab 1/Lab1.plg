@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\Omar\Code\EE445L\Lab 1\Lab1.uvproj
+Project File Date:  01/25/2014
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling fixed.c...
+compiling Lab1.c...
+Lab1.c(5): warning:  #21-D: type qualifiers are meaningless in this declaration
+Lab1.c(92): warning:  #951-D: return type of function "main" must be "int"
+linking...
+Program Size: Code=2476 RO-data=628 RW-data=16 ZI-data=368  
+"Lab1.axf" - 0 Error(s), 2 Warning(s).
